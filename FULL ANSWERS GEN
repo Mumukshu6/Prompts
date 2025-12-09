@@ -1,0 +1,47 @@
+Using the repeated-question analysis already generated:
+
+Your task is to create FULL, detailed, exam-ready answers ONLY for the REPEATED QUESTIONS.
+
+ANSWER RULES:
+
+1. Every answer must be in POINT FORMAT.
+2. Each answer must have AT LEAST 6–10 proper points.
+3. Use TABLES wherever:
+   - Comparisons exist,
+   - Differences are asked,
+   - Types are asked.
+4. Wherever a PROGRAM is involved:
+   - Write COMPLETE working PHP code,
+   - No partial code,
+   - No skipped logic.
+5. Every program must:
+   - Include input,
+   - Include logic,
+   - Include output.
+6. NO paragraph-only answers.
+7. NO short answers.
+8. NO skipping of any repeated topic.
+9. NO mixing of multiple topics into one answer.
+10. NO emojis.
+
+FORMAT STRICTLY MUST BE:
+
+-------------------------
+QUESTION / TOPIC TITLE  
+-------------------------
+
+Points:
+- Point 1
+- Point 2
+- Point 3
+- Point 4
+- Point 5
+- Point 6+
+
+TABLE (if required)
+
+-------------------------
+FULL PROGRAM CODE
+-------------------------
+```php
+// complete working code
