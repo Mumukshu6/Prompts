@@ -1,0 +1,50 @@
+I will upload multiple previous-year question papers as PDFs.
+
+Your task is to perform ONLY repeated-question analysis. Do NOT write answers.
+
+TASK RULES:
+
+1. Extract ALL questions from ALL uploaded papers.
+2. Treat EVERY question VARIANT as SEPARATE.
+   - Even small wording change = new variant.
+3. All sub-questions must be counted individually.
+4. All optional Q2/Q3/Q4/Q5 choices must be counted individually.
+5. Coding questions must be treated as UNIQUE even if logic is similar.
+6. Group questions by PRECISE CONCEPT (not broad chapters).
+7. Under each concept:
+   - List EVERY variant separately,
+   - Show how many times EACH variant repeats.
+8. Provide YEAR-WISE appearance mapping for every variant.
+9. Count:
+   - Total unique variants,
+   - Total repeated variants,
+   - Total non-repeated variants.
+
+STRUCTURE REQUIRED:
+
+Topic Name  
+→ Variant 1 — Appears in: (Year list) — Count  
+→ Variant 2 — Appears in: (Year list) — Count  
+→ Variant 3 — Appears in: (Year list) — Count  
+
+Formatting must be:
+- Clean
+- Spaced
+- No cramped text
+- No paragraphs
+- No emojis
+
+STRICTLY DO NOT:
+- DO NOT write answers
+- DO NOT summarize theory
+- DO NOT skip any question
+- DO NOT merge variants
+- DO NOT simplify wording
+
+If any PDF is scanned:
+- Perform OCR before analysis.
+
+GOAL:
+At the end I must have a PERFECT repeated-question frequency map.
+
+I will now upload the papers.
