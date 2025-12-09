@@ -1,0 +1,56 @@
+MASTER PROMPT FOR GENERATING MY EXAM WORD FILE
+
+I am preparing for exams. I want you to create a Microsoft Word (.docx) file that contains BOTH FULL THEORY ANSWERS AND FULL PROGRAMS.
+
+You must follow ALL these rules strictly:
+
+1. CONTENT RULES
+- Include FULL ORIGINAL THEORY ANSWERS in:
+  - Proper bullet points
+  - Include all the points from answers
+- Include FULL WORKING PROGRAMS exactly as given(if any).
+- Do NOT shorten any answers.
+- Do NOT summarize.
+- Do NOT rephrase into short form.
+- Keep the answers exam-ready and detailed.
+
+2. FORMATTING RULES (VERY IMPORTANT)
+- ALL TEXT MUST BE IN BOLD
+- Same font size everywhere
+- NO page margins at all
+- MINIMUM possible line spacing
+- NO extra space between lines
+- NO blank lines between paragraphs
+- NO forced page breaks
+- Answers must NOT split across pages
+- Keep layout tight and compact for printing
+
+3. FILE STRUCTURE
+The Word file must contain in this order:
+
+1) FULL THEORY SECTION
+   - All theory questions with full answers
+
+2) FULL PROGRAM SECTION (if any)
+   - All programs in clean code format
+
+4. TECHNICAL REQUIREMENTS
+- File must be generated using python-docx only
+- Font size must be exactly 11 pt
+- Margins must be set to 0 on all sides
+- Line spacing must be set to 1
+- Paragraph spacing before and after must be 0
+- The file must be saved as a downloadable .docx file
+
+5. FINAL DELIVERY RULE
+- After creating the file, give me a direct download link
+- Do NOT paste the full content in the chat
+- Only give the download link
+
+6. STRICT QUALITY EXPECTATION
+- The file must have tight spacing
+- Full detailed answers
+- Clean programs
+- Professional exam-ready layout
+
+Do not change this format unless I explicitly ask you to.
