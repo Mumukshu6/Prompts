@@ -1,0 +1,75 @@
+You will receive multiple previous-year question papers as PDFs.
+
+Your task is to perform repeated-question analysis only.  
+Do NOT write answers.
+
+RULES
+
+1. Extract ALL questions  
+Extract every question and every sub-question from all uploaded PDFs, including optional questions and internal choices.
+
+2. Variant Identification Rules  
+Two questions are considered the SAME variant when:  
+- They require the same conceptual task,  
+- Differences exist only in instructional verbs (explain / describe / list & explain / discuss),  
+- Differences exist only in formatting, spacing, punctuation, or case,  
+- The core meaning and requirement are identical.
+
+Two questions are considered DIFFERENT variants when:  
+- The data, parameters, examples, or ranges differ,  
+- The table/variable names differ,  
+- The required output or task changes,  
+- Additional constraints or conditions appear,  
+- The context or purpose differs in any meaningful way.
+
+3. Sub-questions and optional questions  
+Count every sub-question and every choice (a/b/c) as an independent item.
+
+4. Concept grouping  
+Group variants under broader-but-precise concepts based on subject matter.  
+Examples include (but are not limited to):  
+- Theory Concepts  
+- Programming Concepts  
+- Database Concepts  
+- Networking Concepts  
+- Data Structures Concepts  
+- Operating System Concepts  
+- Miscellaneous Concepts  
+
+(Use whichever conceptual groups are relevant for the subject.)
+
+5. Variant listing  
+For each concept, list:  
+- Variant number  
+- A SHORT LABEL for the variant (to prevent message-size issues)  
+- The FULL ORIGINAL QUESTION TEXT (shown once under that label)  
+- Year-wise appearance list  
+- Total appearance count  
+
+6. Final totals  
+At the end, provide:  
+- Total unique variants  
+- Total repeated variants  
+- Total non-repeated variants  
+
+OUTPUT FORMAT
+
+Concept Name  
+→ Variant Label 1 — Appears in: (Year list) — Count  
+   Full Text: “Original question text…”
+
+→ Variant Label 2 — Appears in: (Year list) — Count  
+   Full Text: “Original question text…”
+
+(continue for all variants)
+
+Final Summary:  
+• Total unique variants: X  
+• Total repeated variants: X  
+• Total non-repeated variants: X  
+
+NOTES  
+• Do NOT write answers to any question.  
+• Do NOT summarize theory.  
+• Do NOT merge variants unless they match the Variant Identification Rules above.  
+• The entire analysis must fit in ONE message.
