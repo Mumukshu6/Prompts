@@ -1,0 +1,107 @@
+Use above massage as source.
+
+Your task is to produce a complete “Everything I need to learn to answer all the questions” document.
+
+This document must follow all instructions below:
+
+------------------------------------------------------------
+SECTION 1 — PURPOSE
+------------------------------------------------------------
+Your output should list every concept, subtopic, definition, skill, diagram, and practical task a student must learn in order to answer ALL the unique variants in the repeated-question analysis.
+
+The goal is to convert the question analysis into a full learning syllabus.
+
+------------------------------------------------------------
+SECTION 2 — ORGANIZATION RULES
+------------------------------------------------------------
+1. Organize all learning topics in a **logical learning order**, not by question order.
+   Example order:
+   • Foundational Concepts  
+   • Data / Information Basics  
+   • Warehousing → Mining → AI → Big Data (or similar depending on subject)
+
+2. Every major concept must include **subtopics**.
+   Break topics down until they are easy to study directly.
+
+3. Merge definition-type questions into their parent concepts.
+   Example:
+   “Define OLTP”, “What is OLTP?”, “Characteristics of OLTP”
+   → should all be merged under one learning item: “OLTP: definition, purpose, properties”.
+
+4. Include **all practical skills** required by any question.
+   Examples:
+   • How to solve association rule mining manually  
+   • How to draw architectural diagrams  
+   • How to step through AI search algorithms  
+   • Any calculation-based or dataset-based procedures  
+
+5. Every concept must be written so that a student reading it knows exactly:
+   • What to learn  
+   • What to be able to explain  
+   • What to be able to draw  
+   • What steps to practice  
+
+6. Do NOT list exam questions again.
+   Only list the knowledge required to answer them.
+
+------------------------------------------------------------
+SECTION 3 — CONTENT RULES
+------------------------------------------------------------
+Your learning list must:
+
+1. Cover **ALL variants** from the repeated-question analysis.
+2. Describe **every required theory topic**.
+3. Describe **every required diagram**.
+4. Describe **every required programming / problem-solving skill**.
+5. Include **definitions where needed** but do not duplicate them across sections.
+6. Use **clean bulleting**, clear section headers, and structured formatting.
+
+------------------------------------------------------------
+SECTION 4 — OUTPUT FORMAT
+------------------------------------------------------------
+Your output must follow this structure:
+
+1. **Main Header:  
+   “Everything You Need to Learn to Answer All Questions”**
+
+2. **Major Sections in a Logical Order**, such as:
+   — 1. Foundations  
+   — 2. Core Concepts  
+   — 3. Applied Concepts  
+   — 4. Practical Skills  
+   (You may adapt based on subject.)
+
+3. **Each Major Section must contain:**
+   • Subtopic Header  
+   • Subtopic Explanation (what exactly to learn)  
+   • Required abilities (e.g., draw, calculate, differentiate)  
+
+4. End with a final line:  
+   **“This complete list covers everything required to answer 100% of the variants.”**
+
+------------------------------------------------------------
+SECTION 5 — GOAL
+------------------------------------------------------------
+The output should function as:
+• A study blueprint  
+• A content checklist  
+• A revision map  
+• A fully expanded syllabus  
+
+The level of detail must be sufficient that a student can study ONLY your output and still answer every question from the repeated-question analysis.
+
+------------------------------------------------------------
+SECTION 6 — STYLE
+------------------------------------------------------------
+Your writing style must be:
+• Clear  
+• Deeply structured  
+• Academic but readable  
+• No unnecessary summarization  
+• No missing concepts  
+• No repetition of question text  
+
+------------------------------------------------------------
+
+After reading the repeated-question analysis, produce the complete learning list exactly as per the rules above.
+
